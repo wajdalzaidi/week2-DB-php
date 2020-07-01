@@ -1,0 +1,78 @@
+
+body{
+margin :0;
+padding :0;
+Background-image:url('bbb.png.jpeg');
+Background-repeat:no-repeat;
+Background-position:center;
+}
+
+.a{
+text-align:center;
+margin-top: 200px;
+}
+.d{
+text-align: center;
+margin-top: 10px;
+}
+.b{
+text-align: center;
+margin-top: 0px;
+}
+
+.btn, .btn1, .btn0,.btn2, .btn3{
+ border: 1px solid #3498db;
+ Background: none ;
+ padding :10px 20px;
+ font-size : 20px;
+ font-family:"montserrat";
+ cursor:pointer;
+ margin: 10px;
+ transition: 0.5s;
+}
+.btn3{
+ border: 1px solid #3498db;
+ Background: rgba (0,0,0,0.5);
+ padding :10px 20px;
+ font-size : 20px;
+ font-family:"montserrat";
+ cursor:pointer;
+ margin: 10px;
+ transition: 0.5s;
+}
+
+
+.btn{top:300px;
+right:80px;
+width:150px;
+height:100px
+}
+.btn1{top:300px;
+right:80px;
+width:150px;
+height:100px
+}
+.btn0{top:300px;
+right:80px;
+width:150px;
+height:100px
+}
+.btn2{top:300px;
+right:80px;
+width:150px;
+height:100px
+}
+.btn3{top:300px;
+right:80px;
+width:150px;
+height:100px
+}
+
+.btn,.btn1,.btn0, .btn2, .btn3{
+ color: #fff;
+‪}‬
+
+.btn:hover,.btn1:hover,.btn0:hover, .btn2:hover, .btn3:hover{
+ color: #3498db;
+ 
+}
